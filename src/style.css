@@ -1,0 +1,4 @@
+body {
+  margin: 0; /*remove white border around the black canvas*/
+  overflow: hidden; /* stop ppl from scrolling*/
+}
