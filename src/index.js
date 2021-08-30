@@ -5,6 +5,8 @@
 // - Meshes (objects in the 3D world)
 // - Lights
 
+// console.log(process.env.API_KEY); This is to be added if got .env file
+
 const THREE = require("three");
 
 function createRenderer() {
